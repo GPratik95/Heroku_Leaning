@@ -1,0 +1,27 @@
+body {
+    background-color: #aee1e1;
+  }
+  hr {
+    background-color: white;
+    border-style: none;
+    width: 100%;
+    height: 2px;
+    
+  }
+  img {
+    height: 240px;
+  }
+  h1 {
+      color: #7705e2;
+  }
+
+  /* h2{
+    color: #7705e2;
+  } */
+  
+  h3 {
+    color: #7705e2;
+  }
+  #heading{
+    color: blueviolet;
+  }
